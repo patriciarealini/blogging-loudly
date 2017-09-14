@@ -1,5 +1,7 @@
 # blogging-loudly
 
+!(Blogging Loudly Gif)[https://media.giphy.com/media/eQb4MhTkDC87K/giphy.gif]
+
 ## gatsby-starter-blog
 Gatsby starter for creating a blog
 
