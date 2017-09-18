@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Blog",
-    author: "Kyle Mathews",
+    title: "Blogging Loudly",
+    author: "Patricia Realini",
+    description: "Patricia Realini is a software engineer, an artist and a woman from Los Angeles, CA living in New York, NY.",
+    keywords: "patricia realini, realini, patriciarealini, patricia engineer, patricia developer, patricia realini developer, patricia realini software engineer, patricia realini engineer, patricia realini blog, realini blog, intersectionality blog, inclusivity blog, tech blog, tech inclusivity"
   },
   plugins: [
     {
